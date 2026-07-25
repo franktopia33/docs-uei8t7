@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-mpd924.pagosimpuestosvehiculos.top/sitemap.xml
